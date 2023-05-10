@@ -28,6 +28,10 @@ I needed a numerical value for our analysis so firstly I used th range given to 
 
 ## Data Visualizations
 For the dashboard I decided to go with 2 sheets; 1st sheet is used to display generic demographics of survey takers while 2nd sheet would contain actual survey questions with their respective scores. Complete dashboard along with PDF with both the sheets are placed in the same repository.
+![image](https://github.com/akshaykumar17288/Data-Professional-Survey/assets/133111241/bb53ce0c-7118-4541-9933-c11e2c431ced)
+
+![image](https://github.com/akshaykumar17288/Data-Professional-Survey/assets/133111241/168ebac8-666f-4c55-9c7c-4ea0ed9f2ec0)
+
 
 ### Key Insights I got from this dashboard
 1. There were total of 630 respondants to the survey with average age of 30 and average salary of 54K (Used cards)
